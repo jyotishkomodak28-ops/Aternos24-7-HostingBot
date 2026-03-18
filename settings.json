@@ -5,9 +5,9 @@
     "password": "",
     "type": "offline"
   },
-  "server": {jyotishkomodak.aternos.me
-    "ip": "29732",
-    "port": 62213,
+  "server": {
+    "ip": "jyotishkomodak.aternos.me",
+    "port": 29732,
     "version": "",
     "try-creative": false
   },
